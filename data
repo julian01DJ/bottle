@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "type": "PET",
+    "capacity_ml": 500,
+    "color": "clear",
+    "recyclable": true
+  },
+  {
+    "id": 2,
+    "type": "HDPE",
+    "capacity_ml": 750,
+    "color": "blue",
+    "recyclable": true
+  },
+  {
+    "id": 3,
+    "type": "LDPE",
+    "capacity_ml": 250,
+    "color": "green",
+    "recyclable": true
+  },
+  {
+    "id": 4,
+    "type": "PET",
+    "capacity_ml": 1000,
+    "color": "transparent",
+    "recyclable": true
+  },
+  {
+    "id": 5,
+    "type": "PP",
+    "capacity_ml": 350,
+    "color": "white",
+    "recyclable": true
+  },
+  {
+    "id": 6,
+    "type": "PET",
+    "capacity_ml": 500,
+    "color": "clear",
+    "recyclable": true
+  },
+  {
+    "id": 7,
+    "type": "HDPE",
+    "capacity_ml": 750,
+    "color": "blue",
+    "recyclable": true
+  },
+  {
+    "id": 8,
+    "type": "LDPE",
+    "capacity_ml": 250,
+    "color": "green",
+    "recyclable": true
+  },
+  {
+    "id": 9,
+    "type": "PET",
+    "capacity_ml": 1000,
+    "color": "transparent",
+    "recyclable": true
+  },
+  {
+    "id": 10,
+    "type": "PP",
+    "capacity_ml": 350,
+    "color": "white",
+    "recyclable": true
+  },
+  {
+    "id": 11,
+    "type": "PET",
+    "capacity_ml": 500,
+    "color": "clear",
+    "recyclable": true
+  },
+  {
+    "id": 12,
+    "type": "HDPE",
+    "capacity_ml": 750,
+    "color": "blue",
+    "recyclable": true
+  },
+  {
+    "id": 13,
+    "type": "LDPE",
+    "capacity_ml": 250,
+    "color": "green",
+    "recyclable": true
+  },
+  {
+    "id": 14,
+    "type": "PET",
+    "capacity_ml": 1000,
+    "color": "transparent",
+    "recyclable": true
+  },
+  {
+    "id": 15,
+    "type": "PP",
+    "capacity_ml": 350,
+    "color": "white",
+    "recyclable": true
+  },
+  {
+    "id": 16,
+    "type": "PET",
+    "capacity_ml": 500,
+    "color": "clear",
+    "recyclable": true
+  },
+  {
+    "id": 17,
+    "type": "HDPE",
+    "capacity_ml": 750,
+    "color": "blue",
+    "recyclable": true
+  },
+  {
+    "id": 18,
+    "type": "LDPE",
+    "capacity_ml": 250,
+    "color": "green",
+    "recyclable": true
+  },
+  {
+    "id": 19,
+    "type": "PET",
+    "capacity_ml": 1000,
+    "color": "transparent",
+    "recyclable": true
+  },
+  {
+    "id": 20,
+    "type": "PP",
+    "capacity_ml": 350,
+    "color": "white",
+    "recyclable": true
+  }
+
+]
